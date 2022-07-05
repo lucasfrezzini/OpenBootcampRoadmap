@@ -1,0 +1,16 @@
+.btn-modern {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.4s ease;
+    background-color: rgb(162, 0, 255);
+}
+
+.btn-modern:hover {
+    transform: translateY(-5px);
+    background-color: rgb(117, 3, 184);
+    color: white;
+    box-shadow: 0 5px 5px rgba(91, 5, 141, 0.247);
+}
